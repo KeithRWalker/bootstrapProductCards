@@ -2,3 +2,8 @@ body{
     background-color: black;
     color: blanchedalmond;
 }
+
+.card{
+    background-color: rgba(37, 34, 34, 0.63);
+    color: white;
+}
